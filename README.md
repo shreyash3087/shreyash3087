@@ -9,9 +9,9 @@
 ![HTML](https://img.shields.io/badge/HTML-Proficient-orange)<br>
 ![CSS](https://img.shields.io/badge/CSS-Proficient-blue)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow)<br>
-![BootStrap]https://img.shields.io/badge/Bootstrap-Intermediate-red)<br>
-![TailwindCSS]https://img.shields.io/badge/TailwindCSS-Proficient-yellow)<br>
-![Angular]https://img.shields.io/badge/Angularjs-Beginner-green)<br>
+![BootStrap](https://img.shields.io/badge/Bootstrap-Intermediate-red)<br>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Proficient-yellow)<br>
+![Angular](https://img.shields.io/badge/Angularjs-Beginner-green)<br>
 ![Node.js](https://img.shields.io/badge/Node.js-Beginner-green)<br>
 ![Express.js](https://img.shields.io/badge/Express.js-Beginner-lightgrey)<br>
 ![C# (Unity)](https://img.shields.io/badge/C%23%20(Unity)-Intermediate-blueviolet)<br>
