@@ -1,25 +1,64 @@
-![](https://github.com/shreyash3087/shreyash3087/blob/main/Shreyash.gif)
-# About Me:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shreyash3087.shreyash3087" />
 
-👋 Hi there! I'm Shreyash, a passionate Computer Science and Engineering student currently pursuing my bachelor's degree. I specialize in Front-End Web Development and am enthusiastic about contributing to open-source projects.
+![](https://github.com/shreyash3087/shreyash3087/blob/main/Banner.gif)
+<div align="center">
+ 
+ 🔭 I’m currently a **Student** 
+ 
+ 🌱 I’m currently learning **Flask, NodeJS, ExpressJS**
 
-🌌 Beyond the world of technology, I have a profound interest in space-related topics. Exploring the mysteries of the universe always fascinates me, and I enjoy staying updated with the latest developments in space exploration.
+💬 Ask me about **Angular, React, Python, Unity, Space Science... or anything [here](https://github.com/shreyash3087/shreyash3087/issues)**
 
-🎮 In addition to web development and space exploration, I dabble in game development using Unity Game Engine. Creating immersive experiences and exploring the possibilities of interactive storytelling through games is a hobby I thoroughly enjoy.
+⚡ Fun fact **A day on Venus is longer than a year on Venus.**
 
+ </div>
+<div align="center"> 
+  <a href="mailto:shreyash3087@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyash-srivastava-1a1161280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/shreyash3087" target="_blank">
+     <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,unity" /><br>
+</div>
 
-# Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,nextjs,tailwind,bootstrap,react,python,unity,figma)](https://skillicons.dev)
+<br/>
+<hr/>
 
-# GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyash3087&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyash3087&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash3087&theme=github_dark)
-# 🔗 Connect with me:
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreyash3087/shreyash3087/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shreyash-srivastava-1a1161280)
-[![GitHub](https://img.icons8.com/color/48/github.png)](https://github.com/shreyash3087)<br>
+<hr/>
 
-Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shreyash3087&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shreyash3087&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shreyash3087&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=shreyash3087)
+<br/><br/>
+
+<div align="center"> 
+  <hr/>
+  Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
+  <hr/>
+</div>
+
