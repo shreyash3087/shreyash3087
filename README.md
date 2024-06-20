@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shreyash3087.shreyash3087" />
 
-![](https://github.com/shreyash3087/shreyash3087/blob/main/Banner.gif)
+![](https://github.com/shreyash3087/shreyash3087/blob/main/Images/Banner.gif)
 <div align="center">
  
  🔭 I’m currently a **Student** 
@@ -55,7 +55,8 @@
 </div>
 
 <br/><br/>
-
+<h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
+![](https://github.com/shreyash3087/shreyash3087/blob/main/Images/GSSOC_Badges.gif)
 <div align="center"> 
   <hr/>
   Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
