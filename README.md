@@ -56,7 +56,9 @@
 
 <br/><br/>
 <h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
-![](https://github.com/shreyash3087/shreyash3087/blob/main/Images/GSSOC_Badges.gif)
+
+![](https://github.com/shreyash3087/shreyash3087/blob/main/Images/GSSOC_Badges.png)
+
 <div align="center"> 
   <hr/>
   Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
