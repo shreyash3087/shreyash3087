@@ -7,7 +7,7 @@
  
  🌱 I’m currently learning **Flask, NodeJS, ExpressJS**
 
-💬 Ask me about **Angular, React, Python, Unity, Space Science... or anything [here](https://github.com/shreyash3087/shreyash3087/issues)**
+💬 Ask me about **Angular, React, NextJS, Mongo, Python, Unity, Space Science... or anything [here](https://github.com/shreyash3087/shreyash3087/issues)**
 
 ⚡ Fun fact **A day on Venus is longer than a year on Venus.**
 
@@ -57,7 +57,7 @@
 <br/><br/>
 <h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
 
-![](https://github.com/shreyash3087/shreyash3087/blob/main/Images/GSSOC_Badges.png)
+![Screenshot (371)](https://github.com/user-attachments/assets/717ad7cc-3563-4f5f-affb-31aaeb258e24)
 
 <div align="center"> 
   <hr/>
