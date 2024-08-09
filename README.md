@@ -55,7 +55,7 @@
 <br/><br/>
 <h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
 
-![Screenshot (371)](https://github.com/user-attachments/assets/717ad7cc-3563-4f5f-affb-31aaeb258e24)
+![Picture1-removebg-preview](https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff)
 
 <div align="center"> 
   <hr/>
