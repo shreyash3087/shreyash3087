@@ -1,6 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shreyash3087.shreyash3087" />
 
-![](https://github.com/shreyash3087/shreyash3087/blob/main/Images/Banner.gif)
+[![wakatime](https://wakatime.com/badge/user/cd5f70df-e644-46f4-a03b-e1ce78615131.svg)](https://wakatime.com/@cd5f70df-e644-46f4-a03b-e1ce78615131)
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f207a18b-9619-4c3f-9238-23d3887b876c" />
+</div>
+
 <div align="center">
  
  🔭 I’m currently a **Student** 
