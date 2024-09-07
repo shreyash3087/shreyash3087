@@ -39,7 +39,8 @@
 
 <br/>
 <hr/>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
