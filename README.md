@@ -56,22 +56,9 @@
  
  
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-352-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 203.4 kB Used in GitHub's Storage 
- > 
-> 🏆 690 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
