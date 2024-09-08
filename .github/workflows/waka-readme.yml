@@ -16,12 +16,14 @@ jobs:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
             SECTION_NAME: "waka"
             SHOW_LINES_OF_CODE: "True"
-            SHOW_OS: "True"
+            SHOW_OS: "False"
             SHOW_PROJECTS: "True"
             SHOW_COMMIT: "False"
             SHOW_SHORT_INFO: "True"
             SHOW_UPDATED_DATE: "False"
-            SHOW_TOTAL_CODE_TIME: "True"
+            TIME_RANGE: all_time
+            SHOW_TIME: "True"
+            SHOW_TOTAL_CODE_TIME: "False"
             SHOW_DAYS_OF_WEEK: "True"
             SHOW_LOC_CHART: "False"
             SHOW_LANGUAGE: "True"
