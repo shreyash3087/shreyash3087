@@ -16,9 +16,7 @@ jobs:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
             SECTION_NAME: "waka"
             SHOW_LINES_OF_CODE: "True"
-            SHOW_OS: "False"
             SHOW_PROJECTS: "True"
-            SHOW_COMMIT: "False"
             SHOW_SHORT_INFO: "True"
             SHOW_UPDATED_DATE: "False"
             TIME_RANGE: all_time
@@ -28,9 +26,6 @@ jobs:
             SHOW_LOC_CHART: "False"
             SHOW_LANGUAGE: "True"
             SHOW_LANGUAGE_PER_REPO: "True"
-            COMMIT_BY_ME: "False"
-            COMMIT_MESSAGE: "Updated with Dev Metrics"
+            COMMIT_MESSAGE: "Updated with Wakatime Metrics"
             COMMIT_SINGLE: "False"
             LOCALE: "en"
-            UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
-            SYMBOL_VERSION: "2"
