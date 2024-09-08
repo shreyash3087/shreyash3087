@@ -1,10 +1,18 @@
+<div>
+ 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shreyash3087.shreyash3087" />
 
-[![Code Time](https://wakatime.com/badge/user/cd5f70df-e644-46f4-a03b-e1ce78615131.svg)](https://wakatime.com/@cd5f70df-e644-46f4-a03b-e1ce78615131)
+ [![Code Time](https://wakatime.com/badge/user/cd5f70df-e644-46f4-a03b-e1ce78615131.svg)](https://wakatime.com/@cd5f70df-e644-46f4-a03b-e1ce78615131)
+ 
+</div>
+
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/f207a18b-9619-4c3f-9238-23d3887b876c" />
+ 
+![Banner](https://github.com/user-attachments/assets/fe33d289-b057-4d85-ad76-3103802aa9e1)
+
 </div>
+
 
 <div align="center">
  
@@ -16,7 +24,8 @@
 
 ⚡ Fun fact **A day on Venus is longer than a year on Venus.**
 
- </div>
+</div>
+ 
 <div align="center"> 
   <a href="mailto:shreyash3087@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,45 +42,23 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,cpp,vercel,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,unity,azure,blender" /><br>
 </div>
 
 <br/>
 <hr/>
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreyash3087/shreyash3087/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 <div>
  
+ 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-258-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 203.4 kB Used in GitHub's Storage 
- > 
-> 🏆 684 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -126,6 +113,7 @@ ASP.NET                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <br/><br/>
+
 <h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
 
 ![Picture1-removebg-preview](https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff)
@@ -134,5 +122,11 @@ ASP.NET                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <hr/>
   Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing together!
   <hr/>
+</div>
+
+<div align="center">
+ 
+![BottomBanner](https://github.com/user-attachments/assets/7afe064f-9b9f-401d-bec1-35c8625bb3dc)
+
 </div>
 
