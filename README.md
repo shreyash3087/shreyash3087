@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shreyash3087.shreyash3087" />
 
-[![wakatime](https://wakatime.com/badge/user/cd5f70df-e644-46f4-a03b-e1ce78615131.svg)](https://wakatime.com/@cd5f70df-e644-46f4-a03b-e1ce78615131)
+[![Code Time](https://wakatime.com/badge/user/cd5f70df-e644-46f4-a03b-e1ce78615131.svg)](https://wakatime.com/@cd5f70df-e644-46f4-a03b-e1ce78615131)
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/f207a18b-9619-4c3f-9238-23d3887b876c" />
@@ -39,10 +39,23 @@
 
 <br/>
 <hr/>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-224-blue)
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreyash3087/shreyash3087/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div>
+ 
+<!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -111,21 +124,7 @@ ASP.NET                  1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shreyash3087/shreyash3087/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shreyash3087&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shreyash3087&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
