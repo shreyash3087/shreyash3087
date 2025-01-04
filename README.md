@@ -17,8 +17,6 @@
 <div align="center">
  
  🔭 I’m currently a **Student** 
- 
- 🌱 I’m currently learning **Flask,Django**
 
 💬 Ask me about **Angular, React, NextJS, Mongo, NodeJS, ExpressJS, Python, Unity, Space Science... or anything [here](https://github.com/shreyash3087/shreyash3087/issues)**
 
