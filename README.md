@@ -83,19 +83,16 @@ Sunday                   1394 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ███████████████████░░░░░░   74.41 % 
-JavaScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shrey                    3 hrs 8 mins        █████████████████████████   98.54 % 
-Sign-Language-Detection-U2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
